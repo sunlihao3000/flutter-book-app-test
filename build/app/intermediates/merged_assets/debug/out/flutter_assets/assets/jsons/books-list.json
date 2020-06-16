@@ -1,0 +1,38 @@
+[
+    {
+        "image": "assets/images/book-1.png",
+        "title": "Crushing & Influence",
+        "auth": "Gary Venchuk",
+        "rating:": 4.9
+    },
+    {
+        "image": "assets/images/book-2.png",
+        "title": "Top Ten Business Hacks",
+        "auth": "Herman Joel",
+        "rating": 4.8
+    },
+    {
+        "image": "assets/images/book-1.png",
+        "title": "book 3",
+        "auth": "Gary Venchuk",
+        "rating:": 4.9
+    },
+    {
+        "image": "assets/images/book-2.png",
+        "title": "book 4",
+        "auth": "Herman Joel",
+        "rating": 4.8
+    },
+    {
+        "image": "assets/images/book-1.png",
+        "title": "book 5",
+        "auth": "Gary Venchuk",
+        "rating:": 4.9
+    },
+    {
+        "image": "assets/images/book-2.png",
+        "title": "Top Ten Business Hacks",
+        "auth": "Herman Joel",
+        "rating": 4.8
+    }
+]
